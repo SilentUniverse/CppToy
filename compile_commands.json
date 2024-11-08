@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/AwesomeWork/Cpp/NeoVim/build/src/multiply",
+  "command": "/usr/sbin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/root/AwesomeWork/Cpp/NeoVim/src/multiply/include                     -Wall                     -Wextra                     -Weffc++                     -Werror=uninitialized                     -Werror=return-type                     -Wconversion                     -Wsign-compare                     -Werror=unused-result                     -Werror=suggest-override                     -Wzero-as-null-pointer-constant                     -Wmissing-declarations                     -Wold-style-cast                     -Werror=vla                     -Wnon-virtual-dtor -std=c++23 -o CMakeFiles/multiply.dir/multiply.cpp.o -c /root/AwesomeWork/Cpp/NeoVim/src/multiply/multiply.cpp",
+  "file": "/root/AwesomeWork/Cpp/NeoVim/src/multiply/multiply.cpp",
+  "output": "src/multiply/CMakeFiles/multiply.dir/multiply.cpp.o"
+},
+{
+  "directory": "/root/AwesomeWork/Cpp/NeoVim/build/tests",
+  "command": "/usr/sbin/c++ -DFMT_SHARED -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/root/AwesomeWork/Cpp/NeoVim/src/multiply/include -std=c++23 -o CMakeFiles/multiply_test.dir/multiply_test.cpp.o -c /root/AwesomeWork/Cpp/NeoVim/tests/multiply_test.cpp",
+  "file": "/root/AwesomeWork/Cpp/NeoVim/tests/multiply_test.cpp",
+  "output": "tests/CMakeFiles/multiply_test.dir/multiply_test.cpp.o"
+}
+]
